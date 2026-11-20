@@ -1,0 +1,17 @@
+TEAM TASK MANAGEMENT SYSTEM
+==========================
+
+Task 1: Create project repository
+Status: Completed
+
+Task 2: Create feature branch
+Status: Completed
+
+Task 3: Prepare README documentation
+Status: Completed
+
+Task 4: Implement task tracking module
+Status: In Progress
+
+Task 5: Review and merge project changes
+Status: Pending
